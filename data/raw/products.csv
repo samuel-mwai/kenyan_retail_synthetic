@@ -1,0 +1,101 @@
+product_id,product_name,category,regular_price_kes,unit_cost_kes
+PRD001,Maize Flour 2kg,Staples,165,118
+PRD002,Rice 2kg,Staples,310,235
+PRD003,Wheat Flour 2kg,Staples,175,128
+PRD004,Sugar 2kg,Staples,340,278
+PRD005,Cooking Oil 1L,Staples,295,235
+PRD006,Beans 1kg,Staples,190,140
+PRD007,Green Gram 1kg,Staples,230,175
+PRD008,Spaghetti 500g,Staples,125,88
+PRD009,Porridge Flour 1kg,Staples,150,105
+PRD010,Salt 1kg,Staples,55,32
+PRD011,Tea Leaves 250g,Staples,180,128
+PRD012,Coffee 100g,Staples,220,165
+PRD013,Wheat Bread,Staples,70,48
+PRD014,Brown Bread,Staples,75,52
+PRD015,Oats 500g,Staples,210,155
+PRD016,Peanut Butter 400g,Staples,260,195
+PRD017,Jam 400g,Staples,230,165
+PRD018,Cereal 500g,Staples,280,210
+PRD019,Baking Flour 1kg,Staples,110,78
+PRD020,Pasta 1kg,Staples,240,180
+PRD021,Tomatoes 1kg,Fresh Produce,95,55
+PRD022,Onions 1kg,Fresh Produce,110,65
+PRD023,Potatoes 2kg,Fresh Produce,150,92
+PRD024,Sukuma Wiki Bundle,Fresh Produce,25,12
+PRD025,Spinach Bundle,Fresh Produce,35,17
+PRD026,Carrots 1kg,Fresh Produce,100,60
+PRD027,Cabbage Each,Fresh Produce,75,43
+PRD028,Bananas 1kg,Fresh Produce,130,78
+PRD029,Avocados Each,Fresh Produce,35,18
+PRD030,Oranges 1kg,Fresh Produce,150,90
+PRD031,Mangoes 1kg,Fresh Produce,180,105
+PRD032,Pineapples Each,Fresh Produce,120,70
+PRD033,Watermelon Each,Fresh Produce,250,155
+PRD034,Lemons 500g,Fresh Produce,80,45
+PRD035,Green Pepper 500g,Fresh Produce,90,52
+PRD036,Coriander Bunch,Fresh Produce,20,8
+PRD037,Garlic 250g,Fresh Produce,100,62
+PRD038,Ginger 250g,Fresh Produce,95,58
+PRD039,Sweet Potatoes 1kg,Fresh Produce,100,58
+PRD040,Pumpkin Each,Fresh Produce,180,110
+PRD041,Fresh Milk 500ml,Dairy & Eggs,65,45
+PRD042,Fresh Milk 1L,Dairy & Eggs,115,82
+PRD043,Long Life Milk 1L,Dairy & Eggs,145,105
+PRD044,Yoghurt 500ml,Dairy & Eggs,120,82
+PRD045,Mala 500ml,Dairy & Eggs,80,52
+PRD046,Butter 250g,Dairy & Eggs,260,195
+PRD047,Margarine 500g,Dairy & Eggs,190,135
+PRD048,Cheese 200g,Dairy & Eggs,240,175
+PRD049,Eggs Tray 30,Dairy & Eggs,480,390
+PRD050,Eggs Tray 15,Dairy & Eggs,250,195
+PRD051,Cream 250ml,Dairy & Eggs,150,105
+PRD052,Ice Cream 1L,Dairy & Eggs,420,310
+PRD053,UHT Milk 500ml,Dairy & Eggs,85,60
+PRD054,Flavoured Milk 300ml,Dairy & Eggs,70,43
+PRD055,Custard Powder 250g,Dairy & Eggs,130,88
+PRD056,Condensed Milk 380g,Dairy & Eggs,170,125
+PRD057,Sour Cream 250g,Dairy & Eggs,160,115
+PRD058,Ghee 500g,Dairy & Eggs,360,275
+PRD059,Milk Powder 400g,Dairy & Eggs,390,295
+PRD060,Plain Yoghurt 1L,Dairy & Eggs,210,150
+PRD061,Laundry Detergent 1kg,Household,280,205
+PRD062,Dishwashing Liquid 500ml,Household,130,85
+PRD063,Toilet Tissue 10pk,Household,250,175
+PRD064,Bar Soap 800g,Household,180,125
+PRD065,Toothpaste 150g,Household,170,115
+PRD066,Bathing Soap 3pk,Household,150,95
+PRD067,Bleach 1L,Household,125,78
+PRD068,Floor Cleaner 1L,Household,220,150
+PRD069,Bin Liners 30pk,Household,190,125
+PRD070,Air Freshener 300ml,Household,260,180
+PRD071,Mosquito Repellent,Household,180,115
+PRD072,Matches 10pk,Household,35,18
+PRD073,Batteries AA 4pk,Household,220,155
+PRD074,Light Bulb LED,Household,180,115
+PRD075,Cling Film,Household,120,78
+PRD076,Aluminium Foil,Household,160,105
+PRD077,Kitchen Towels 2pk,Household,180,120
+PRD078,Laundry Bar Soap,Household,90,55
+PRD079,Disinfectant 500ml,Household,150,98
+PRD080,Handwash 500ml,Household,140,88
+PRD081,Petroleum Jelly 250ml,Personal Care,190,125
+PRD082,Body Lotion 400ml,Personal Care,320,220
+PRD083,Shampoo 400ml,Personal Care,280,195
+PRD084,Conditioner 400ml,Personal Care,270,185
+PRD085,Sanitary Pads 10pk,Personal Care,180,115
+PRD086,Baby Diapers 20pk,Personal Care,650,510
+PRD087,Baby Wipes 80pk,Personal Care,180,110
+PRD088,Toothbrush Each,Personal Care,60,30
+PRD089,Deodorant 150ml,Personal Care,220,145
+PRD090,Skin Cream 200g,Personal Care,240,160
+PRD091,Hand Sanitizer 250ml,Personal Care,150,85
+PRD092,Cotton Wool 100g,Personal Care,90,52
+PRD093,Razors 5pk,Personal Care,140,82
+PRD094,Hair Food 150g,Personal Care,120,72
+PRD095,Baby Soap 3pk,Personal Care,160,100
+PRD096,Baby Lotion 200ml,Personal Care,210,135
+PRD097,Shower Gel 500ml,Personal Care,250,165
+PRD098,Lip Balm,Personal Care,100,55
+PRD099,Comb Each,Personal Care,45,20
+PRD100,Petroleum Jelly 100ml,Personal Care,100,62

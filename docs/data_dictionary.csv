@@ -1,0 +1,42 @@
+table,column,data_type,description
+sales_transactions,transaction_id,string,Synthetic transaction-line ID; a few duplicate rows are intentionally included.
+sales_transactions,transaction_date,date,Simulated transaction date.
+sales_transactions,store_id,string,Foreign key to stores.store_id.
+sales_transactions,product_id,string,Foreign key to products.product_id.
+sales_transactions,customer_id,nullable string,Synthetic customer ID; some values intentionally missing.
+sales_transactions,quantity,integer,Units sold; a few invalid zero values intentionally injected.
+sales_transactions,unit_price_kes,decimal,Pre-discount unit price; a few invalid negative values intentionally injected.
+sales_transactions,discount_rate,decimal,Simulated discount proportion.
+sales_transactions,selling_price_kes,decimal,Per-unit selling price after discount.
+sales_transactions,payment_method,category,"Includes M-Pesa, cash, card, and other simulated methods."
+sales_transactions,promotion_id,nullable string,Synthetic promotion activity ID for discounted transaction lines.
+customers,customer_id,string,Synthetic customer identifier.
+customers,registration_date,date,Simulated registration date.
+customers,county,category,Simulated customer county.
+customers,customer_segment,category,"Budget, Regular, or Premium simulated segment."
+customers,loyalty_member,category,Simulated loyalty membership.
+products,product_id,string,Synthetic product identifier.
+products,product_name,string,Illustrative product name.
+products,category,category,One of five product categories.
+products,regular_price_kes,decimal,"Illustrative price in KES, not current market data."
+products,unit_cost_kes,decimal,Illustrative synthetic unit cost.
+stores,store_id,string,Synthetic store identifier.
+stores,store_name,string,Fictional branch name.
+stores,county,category,County assigned to fictional branch.
+stores,location_type,category,Simulated urban/peri-urban classification.
+stores,opening_date,date,Simulated opening date.
+promotions,promotion_id,string,Promotion schedule identifier.
+promotions,store_id,string,Participating store.
+promotions,product_id,string,Promoted product.
+promotions,start_date,date,Promotion start date.
+promotions,end_date,date,Promotion end date.
+promotions,discount_rate,decimal,Simulated promotion discount.
+calendar,date,date,Calendar date key.
+calendar,year,integer,Calendar year.
+calendar,month,integer,Month number.
+calendar,month_name,string,Month name.
+calendar,quarter,integer,Calendar quarter.
+calendar,day_of_week,string,Weekday name.
+calendar,is_weekend,boolean,Weekend indicator.
+calendar,is_public_holiday_simulated,boolean,Simulated holiday flag; not authoritative.
+calendar,holiday_name_simulated,nullable string,Simulated holiday name.

@@ -1,0 +1,9 @@
+store_id,store_name,county,location_type,opening_date
+STR001,Nairobi Central,Nairobi,Urban,2023-01-01
+STR002,Westlands Market,Nairobi,Urban,2023-01-01
+STR003,Thika Town,Kiambu,Urban,2023-01-01
+STR004,Kiambu Road,Kiambu,Peri-urban,2023-01-01
+STR005,Nakuru Town,Nakuru,Urban,2023-01-01
+STR006,Naivasha Fresh,Nakuru,Peri-urban,2023-01-01
+STR007,Mombasa Coast,Mombasa,Urban,2023-01-01
+STR008,Kisumu Lakeside,Kisumu,Urban,2023-01-01
