@@ -32,5 +32,3 @@ Individual Data Science and Analytics capstone using synthetic Kenyan supermarke
 6. Compare a forecasting model with a seasonal-naive baseline.
 7. Build a Power BI dashboard.
 
-## Limitations
-Synthetic data supports technical practice but cannot establish actual Kenyan retail demand, current prices, actual promotion effectiveness, or real consumer behaviour. The holiday calendar is not authoritative.
