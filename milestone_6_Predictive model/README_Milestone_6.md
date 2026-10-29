@@ -74,3 +74,17 @@ Neither approach predicted every day accurately. A possible next experiment is t
 - The first Random Forest model uses calendar features but no lagged demand features.
 - The inflation dataset covers only December 2024–December 2025, so it was excluded from the first full-period model.
 - Results describe this specific test period and should not be assumed to generalize to all future periods.
+
+  ## Model Evaluation Results
+
+The weekly seasonal-naive baseline was compared with a Random Forest model using a 74-day test period from 19 October to 31 December 2025.
+
+| Model | MAE | RMSE |
+|---|---:|---:|
+| Weekly seasonal-naive baseline | 467.47 | 692.09 |
+| Random Forest | 1,068.59 | 1,143.11 |
+
+The weekly seasonal-naive baseline achieved lower MAE and RMSE than the Random Forest model. Therefore, it was the better-performing model on this test period. The results suggest that the more complex model did not improve forecasting accuracy in this evaluation.
+
+These results are based on synthetic supermarket data and should not be interpreted as actual performance for a real supermarket chain.
+
