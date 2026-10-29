@@ -1,0 +1,10 @@
+# Python dependencies for the Kenyan Retail Customer & Sales Intelligence capstone
+# Install with: python -m pip install -r requirements.txt
+
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
